@@ -41,7 +41,7 @@
   ➤ Designed to mimic a cyberpunk CLI interface (Matrix-themed)  
   ➤ Technologies: HTML, CSS, JavaScript  
   ➤ Includes countdown timer, stage reveal system, and animated terminal effects  
-  ➤ Focused on UI/UX and branding for technical events
+  ➤ Focused on UI/UX and branding for technical event
 
 
 ## 🧠 Courses I've Completed
