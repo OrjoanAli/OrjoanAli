@@ -36,6 +36,14 @@
   ➤ Full-stack web app using PHP, JavaScript, HTML, CSS  
   ➤ Features admin panel, user submission form, and data storage
 
+- 🧩 **CODESCAPE – The Matrix Awaits**  
+  A terminal-style landing page for IEEE CS UJ’s coding competition.  
+  ➤ Designed to mimic a cyberpunk CLI interface (Matrix-themed)  
+  ➤ Technologies: HTML, CSS, JavaScript  
+  ➤ Includes countdown timer, stage reveal system, and animated terminal effects  
+  ➤ Focused on UI/UX and branding for technical events
+
+
 ## 🧠 Courses I've Completed
 - 🎓 [Data Analysis Fundamentals – Udacity](https://www.udacity.com/course/data-analysis-fundamentals--nd105)
 - 📊 Data Analytics & Business Intelligence Technology I – HTU/NUMO  
