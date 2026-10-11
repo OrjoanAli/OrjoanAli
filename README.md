@@ -57,10 +57,13 @@
 - 📊 Data Analytics & Business Intelligence Technology I – HTU/NUMO  
   ➤ Focus on Excel, Power BI, SQL, and Data Storytelling
 - 🐍 Python for Data Analysis (self-taught / in progress)
-- 🧪 [Data Science Essentials with Python – Cisco NetAcad (Beta)](https://www.netacad.com/courses/data-science-essentials-with-python)
+
+## 🌐 Portfolio
+👉 [Check out my portfolio website](https://orjoanali.github.io/Orjoan-Frogfolio)
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/orjoan-ali](https://www.linkedin.com/in/orjoan-ali-377495252)
+
 
 ---
 
