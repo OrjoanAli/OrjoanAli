@@ -1,7 +1,8 @@
 # Hi I'm Orjoan 👋
 
-💻 BIT Student @ University of Jordan  
-🧠 Passionate about Web Development, Data Analytics, and BI Tools  
+🎓 BIT graduate, University of Jordan (2026)
+💻 Currently studying Cyber & Web Essentials @ 42 Amman
+🧠 Passionate about Web Development, Data Analytics, and BI Tools
 🎯 Always learning | Always building
 
 ## 🧰 Languages & Tools
@@ -12,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
   
   <!-- Power BI (custom image since it's not in Devicon) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" alt="Power BI"/>
@@ -26,10 +28,12 @@
 </p>
 
 ## 📚 Projects I've Built
-- 🛍️ **Sustainable Energy Devices Store**  
-  A dynamic website for selling green energy devices.  
-  ➤ Built using HTML, CSS, PHP  
-  ➤ Includes product management and an admin dashboard
+- 💳 **SCOPS – Smart Control of Paid System** (Graduation Project)  
+  A subscription management platform that helps users track and control their paid subscriptions.  
+  ➤ Team of three: mobile app (Flutter) + REST API (Laravel)  
+  ➤ Features email verification, Cloudinary image storage, and a database designed from an ERD  
+  ➤ API deployed on Render.com  
+  ➤ My role: Built and deployed the Laravel REST API, implemented email verification and the Cloudinary image storage, designed the class/component diagrams, and tested the API with Postman (QA)
 
 - 🔎 **Lost & Found System – University of Jordan**  
   Helps students report and find lost items.  
@@ -43,6 +47,10 @@
   ➤ Includes countdown timer, stage reveal system, and animated terminal effects  
   ➤ Focused on UI/UX and branding for technical event
 
+## 💼 Experience
+- **Data Analytics Intern @ Dimensions (game development)**
+  ➤ Game analytics, KPI dashboards, and A/B testing preparation
+  ➤ Tools: Python, Firebase/Google Analytics, Power BI
 
 ## 🧠 Courses I've Completed
 - 🎓 [Data Analysis Fundamentals – Udacity](https://www.udacity.com/course/data-analysis-fundamentals--nd105)
@@ -52,7 +60,7 @@
 - 🧪 [Data Science Essentials with Python – Cisco NetAcad (Beta)](https://www.netacad.com/courses/data-science-essentials-with-python)
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/orjoan-ali](www.linkedin.com/in/orjoan-ali-377495252)
+- 💼 LinkedIn: [linkedin.com/in/orjoan-ali](https://www.linkedin.com/in/orjoan-ali-377495252)
 
 ---
 
